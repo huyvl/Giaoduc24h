@@ -29,6 +29,7 @@
                 </h5>
             </div>
         </div>
+        <hr>
         <p class="copyright text-muted small">Bản quyền thuộc về giaoduc24h</p>
     </div>
 </footer>

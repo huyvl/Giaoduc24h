@@ -9,10 +9,10 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Tại sao lại phải học <br>lập trình IOS</h2>
-                    <p class="lead">A special thanks to
-                        <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>
-                        for providing the photographs that you see in this template. Visit their website to become a
-                        member.</p>
+                    <p class="lead">
+                        {{--<a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>--}}
+                        - Lập trình iOS luôn nằm trong Top 10 những công việc có thu nhập khủng và nhiều cơ hội nhất từ
+                        2013-2015, thu nhập không dưới 1000$/tháng, ngôn ngữ dễ học trực quan. </p>
                 </div>
                 <div class="col-lg-5 mr-auto">
                     <img class="img-fluid" src="{{ asset('assets-client/img/ipad.png') }}" alt="">
@@ -30,10 +30,8 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Bạn sẽ học được gì sau <br>khóa học IOS</h2>
-                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free
-                        Photoshop actions by
-                        <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to
-                        download some of their awesome, free photoshop actions!</p>
+                    <p class="lead">Những kiến thức mới , những demo app thực tế + những bí quyết, kinh nghiệm thực tế sẽ được giảng viên cập nhật ngay tại lớp học
+                        <a target="_blank" href="http://www.giaoduc24h.com/">Giaoduc24h</a> !</p>
                 </div>
                 <div class="col-lg-5 ml-auto order-lg-1">
                     <img class="img-fluid" src="{{ asset('assets-client/img/dog.png') }}" alt="">
@@ -51,9 +49,9 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Thông tin khóa học <br>lập trình IOS cơ bản nâng cao</h2>
-                    <p class="lead">This template features the 'Lato' font, part of the
-                        <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as
-                        <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+                    <p class="lead">Giới thiệu và làm quen với giao diện Mac OS App Store, sử dụng 1 số dòng lệnh cơ bản với terminal và cài đặt Xcodel.</p>
+                    <p class="lead">Viết ứng dụng đầu tay, các thao tác trên máy ảo simulator.</p>
+                    <p class="lead">Build demo trên máy ảo và hướng dẫn build máy thật.</p>
                 </div>
                 <div class="col-lg-5 mr-auto ">
                     <img class="img-fluid" src="{{ asset('assets-client/img/phones.png') }}" alt="">
@@ -85,7 +83,7 @@
                                 </div>
                             </article>
                         </h2>
-                        <h3>Áp dụng đến hết 15/8/2017</h3>
+                        <h3>Áp dụng đến hết 15/9/2017</h3>
                     </div>
                     <div class="col-lg-6 my-auto">
                         <div class="row">
@@ -127,7 +125,8 @@
                         <div class="row">
                             <div class="col-md-6 col-md-offset-3">
                                 <div class="form-group">
-                                    <button type="submit" class="btn btn-primary btn-lg hvr-in" id="book-submit">Đăng ký ngay
+                                    <button type="submit" class="btn btn-primary btn-lg hvr-in" id="book-submit">Đăng ký
+                                        ngay
                                     </button>
                                 </div>
                             </div> <!-- /.col -->

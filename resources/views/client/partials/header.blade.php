@@ -19,8 +19,8 @@
                 </li>
                 <li class="list-inline-item">
                     <a href="#" class="btn btn-secondary btn-lg">
-                        <i class="fa fa-linkedin fa-fw"></i>
-                        <span class="network-name">Linkedin</span>
+                        <i class="fa fa-facebook fa-fw"></i>
+                        <span class="network-name">Facebook</span>
                     </a>
                 </li>
             </ul>

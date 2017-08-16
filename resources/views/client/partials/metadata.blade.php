@@ -1,9 +1,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="description" content="">
-<meta name="author" content="">
+<meta name="description" content="Lập trình IOS cơ bản nâng cao">
+<meta name="author" content="Giaoduc24h">
 
-<title>Landing Page - Start Bootstrap Theme</title>
+<title>Khóa học online -Giaoduc24h</title>
 
 <!-- Bootstrap core CSS -->
 <link href="{{ asset('assets-client/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
