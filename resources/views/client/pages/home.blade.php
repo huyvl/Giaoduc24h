@@ -2,7 +2,6 @@
 @section('content')
     <!-- Page Content -->
     <section class="content-section-a">
-
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 ml-auto">
@@ -18,7 +17,6 @@
                     <img class="img-fluid" src="{{ asset('assets-client/img/ipad.png') }}" alt="">
                 </div>
             </div>
-
         </div>
         <!-- /.container -->
     </section>
