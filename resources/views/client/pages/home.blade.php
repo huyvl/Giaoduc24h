@@ -27,9 +27,10 @@
                 <div class="col-lg-5 mr-auto order-lg-2">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Bạn sẽ học được gì sau <br>khóa học IOS</h2>
-                    <p class="lead">Những kiến thức mới , những demo app thực tế + những bí quyết, kinh nghiệm thực tế sẽ được giảng viên cập nhật ngay tại lớp học
-                        <a target="_blank" href="http://www.giaoduc24h.com/">Giaoduc24h</a> !</p>
+                    <h2 class="section-heading">Bạn sẽ được gì sau <br>khóa học IOS</h2>
+                    <p class="lead">Những kiến thức nền tảng , demo app dự án thực tế và những bí quyết từ giảng viên có
+                        3 năm kinh nghiệm trở lên, có sản phẩm đưa lên app store sau khi hoàn thành khóa học
+                        <a target="_blank" href="http://www.giaoduc24h.com/">Giaoduc24h</a></p>
                 </div>
                 <div class="col-lg-5 ml-auto order-lg-1">
                     <img class="img-fluid" src="{{ asset('assets-client/img/dog.png') }}" alt="">
@@ -46,8 +47,9 @@
                 <div class="col-lg-5 ml-auto">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Thông tin khóa học <br>lập trình IOS cơ bản nâng cao</h2>
-                    <p class="lead">Giới thiệu và làm quen với giao diện Mac OS App Store, sử dụng 1 số dòng lệnh cơ bản với terminal và cài đặt Xcodel.</p>
+                    <h2 class="section-heading">Thông tin khóa học <br>lập trình IOS</h2>
+                    <p class="lead">Giới thiệu và làm quen với giao diện Mac OS App Store, sử dụng 1 số dòng lệnh cơ bản
+                        với terminal và cài đặt Xcode.</p>
                     <p class="lead">Viết ứng dụng đầu tay, các thao tác trên máy ảo simulator.</p>
                     <p class="lead">Build demo trên máy ảo và hướng dẫn build máy thật.</p>
                 </div>
@@ -64,24 +66,23 @@
     <aside class="banner">
         <div class="container">
             <form id="booking-form" class="booking-form" data-toggle="validator" method="POST"
-                  action="{{ url('booking') }}">
+                  action="{{ url('booking') }}" onsubmit="alert('Đăng ký thành công , cảm ơn bạn');">
                 <input type="hidden" name="_token" value="{!! csrf_token() !!}">
                 <div class="row">
                     <div class="col-lg-6 my-auto">
-                        <h2>Đăng ký khóa học ngay nhận ưu đãi <span style="color: red">64%</span>
+                        <h2>Đăng ký khóa học ngay nhận ưu đãi <span style="color: red">90%</span>
                             <article class="price">
                                 <div class="new_emph">
                                     <div class="old_price">
-                                        <center><s><p lp-display="old_price">1,100,000</p></s></center>
+                                        <center><s><p lp-display="old_price">2,100,000</p></s></center>
                                     </div>
                                     <div class="new_price">
                                         <p class="line-1">Chỉ còn</p>
-                                        <p lp-display="new_price">399,000</p></b>
+                                        <p lp-display="new_price">299,000</p></b>
                                     </div>
                                 </div>
                             </article>
                         </h2>
-                        <h3>Áp dụng đến hết 15/9/2017</h3>
                     </div>
                     <div class="col-lg-6 my-auto">
                         <div class="row">

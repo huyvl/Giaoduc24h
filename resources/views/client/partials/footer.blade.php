@@ -25,11 +25,10 @@
             <div class="col-lg-6">
                 <h5 class="list-inline-item text-center" style="width: 300px">
                     <a href="#contact">Hỗ trợ trọn gói</a>
-                    <p>Miễn phí giao hàng, bạn sẽ không tốn thêm bất cứ chi phí nào.</p>
+                    <p>Bạn sẽ không tốn thêm bất cứ chi phí nào trong khóa học.</p>
                 </h5>
             </div>
         </div>
-        <hr>
-        <p class="copyright text-muted small">Bản quyền thuộc về giaoduc24h</p>
     </div>
+    <p class="copyright text-muted small cen">Bản quyền thuộc về giaoduc24h</p>
 </footer>

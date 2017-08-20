@@ -37,7 +37,7 @@ class HomeController extends Controller
         $requestData = $request->all();
         Booking::create($requestData);
         Session::flash('success', 'Cảm ơn bạn đã đăng ký , chúng tôi sẽ liên hệ bạn sớm nhất');
-        return redirect('home');
+        return redirect()->back();
     }
 
     public function logout()
