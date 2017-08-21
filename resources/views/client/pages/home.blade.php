@@ -66,7 +66,7 @@
     <aside class="banner">
         <div class="container">
             <form id="booking-form" class="booking-form" data-toggle="validator" method="POST"
-                  action="{{ url('booking') }}" onsubmit="alert('Đăng ký thành công , cảm ơn bạn');">
+                  action="{{ url('booking') }}" onsubmit="alert('Khoá học chưa bắt đầu, chúng tôi sẽ liên hệ với bạn sau ');">
                 <input type="hidden" name="_token" value="{!! csrf_token() !!}">
                 <div class="row">
                     <div class="col-lg-6 my-auto">
