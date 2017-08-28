@@ -9,6 +9,7 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Tại sao lại phải học <br>lập trình IOS</h2>
                     <p class="lead">
+
                         {{--<a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>--}}
                         - Lập trình iOS luôn nằm trong Top 10 những công việc có thu nhập khủng và nhiều cơ hội nhất từ
                         2013-2015, thu nhập không dưới 1000$/tháng, ngôn ngữ dễ học trực quan. </p>
